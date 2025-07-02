@@ -1,7 +1,5 @@
 # URL Shortening API Master
 
-![Project Banner](./images/banner.png) <!-- Optional: Add a banner image here -->
-
 ## 🚀 Live Demo
 
 Try the live project here:  
