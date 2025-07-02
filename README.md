@@ -1,12 +1,56 @@
-# React + Vite
+# URL Shortening API Master
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Banner](./images/banner.png) <!-- Optional: Add a banner image here -->
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Try the live project here:  
+👉 [https://mohammad-irfan-noorzada.github.io/url-shortening-api-master/](https://mohammad-irfan-noorzada.github.io/url-shortening-api-master/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📖 About
+
+This project is a URL shortening application built with React for the frontend and Node.js/Express for the backend API. It allows users to input a long URL and receive a shortened version using an external API proxy. The app features:
+
+- URL validation with user-friendly error messages
+- Real-time feedback with loading indicators
+- Copy to clipboard functionality with feedback
+- Responsive and modern UI using Tailwind CSS
+
+---
+
+## 🛠 Features
+
+- Shorten URLs instantly
+- Display list of shortened links
+- Copy shortened URL with a single click
+- Loading state and error handling
+- Mobile responsive design
+
+---
+
+## 🧰 Technologies Used
+
+- React (Functional Components & Hooks)
+- Node.js with Express (Backend API)
+- Tailwind CSS (Styling)
+- fetch API for network requests
+- cleanuri.com API (for URL shortening)
+
+---
+
+## 💻 Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your machine
+- Git installed
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Mohammad-Irfan-Noorzada/url-shortening-api-master.git
+cd url-shortening-api-master
