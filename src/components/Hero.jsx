@@ -3,8 +3,8 @@ import React from "react";
 function Hero() {
   return (
     <>
-      <section className="section pt-24 lg:pt-28 xl:pt-36 flex items-center gap-8 flex-col md:flex-row-reverse text-center md:text-left 2xl:justify-center
-        2xl:gap-10">
+      <section className="section pt-24 lg:pt-28 xl:pt-36 flex items-center gap-8 flex-col md:flex-row-reverse text-center md:text-left overflow-hidden
+        md:overflow-visible 2xl:justify-center 2xl:gap-10">
         <div className="">
           <img src="images/illustration-working.svg" alt="illustration-working.svg" className=" overflow-x-hidden w-96 translate-x-24 scale-[1.6]
             sm:translate-x-0 md:w-auto md:scale-[1.5] md:translate-x-20 lg:translate-x-32 xl:translate-x-44 2xl:scale-[1.2]" />
