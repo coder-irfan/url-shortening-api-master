@@ -3,7 +3,7 @@
 ## 🚀 Live Demo
 
 Try the live project here:  
-👉 [https://mohammad-irfan-noorzada.github.io/url-shortening-api-master/](https://coder-irfan.github.io/url-shortening-api-master/)
+👉 [https://coder-irfan.github.io/url-shortening-api-master/](https://coder-irfan.github.io/url-shortening-api-master/)
 
 ---
 
